@@ -32,8 +32,8 @@ Ensure you have the following installed on your machine:
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/your-username/my-portfolio.git
-    cd my-portfolio
+    git clone https://github.com/Dev-Web-Balangyao/jeb-ph.git
+    cd jeb-ph
     ```
 
 2. **Install backend dependencies**:
@@ -144,21 +144,24 @@ cd frontend
 npm run build
 ```
 
-### Environmental Variables
+### Environment Variables
 
-Create a .env file in the backend directory to store environment variables:
+Create a `.env` file in the `backend` directory to store environment variables:
 
-PORT=5000
-DATABASE_URL=your-database-url
+```plaintext
+PORT=
+DATABASE_URL=
+```
 
 
-License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-React
-Node.js
-TypeScript
-Docker
-Express
-Create React App
+### Acknowledgments
+
+- [React](https://reactjs.org/)
+- [Node.js](https://nodejs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Docker](https://www.docker.com/)
+- [Express](https://expressjs.com/)
+- [Create React App](https://create-react-app.dev/)
